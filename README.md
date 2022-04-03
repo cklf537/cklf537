@@ -1,6 +1,23 @@
-### Hi there 👋 I'm Shekar
-Working as fullstack developer
+<div align="center">
+<h1>Hi there 👋 I'm CSboggavarpu</h1>
+<span> I'm enthusiastic Full Stack Developer. </span>
+</div>
 
+<!--
+<htm>
+<style>
+.headingStyle{
+  test-align:center;
+  border:solid 1px green;
+  }
+</style>
+<div class="headingStyle">
+  <h1 s>Hi there 👋 I'm Shekar</h1>
+  <p>
+    Working as fullstack developer
+  </p>
+</div>
+-->
 <!--
 **cklf537/cklf537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
